@@ -1,0 +1,3 @@
+/home/congvt/Documents/wspace/network-program/caro_socket_c/Server/CMakeFiles/Server.dir
+/home/congvt/Documents/wspace/network-program/caro_socket_c/Server/CMakeFiles/edit_cache.dir
+/home/congvt/Documents/wspace/network-program/caro_socket_c/Server/CMakeFiles/rebuild_cache.dir

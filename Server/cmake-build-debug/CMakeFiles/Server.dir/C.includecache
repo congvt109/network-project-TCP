@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../constant/constant.h
+
+../include/caroGame.h
+structData.h
+../include/structData.h
+
+../include/handleDatabase.h
+stdio.h
+-
+constant.h
+../include/constant.h
+structData.h
+../include/structData.h
+
+../include/initServer.h
+structData.h
+../include/structData.h
+caroGame.h
+../include/caroGame.h
+
+../include/structData.h
+arpa/inet.h
+-
+
+/home/ubuntu/Desktop/Caro/Server/src/initServer.c
+sys/socket.h
+-
+stdlib.h
+-
+netdb.h
+-
+initServer.h
+/home/ubuntu/Desktop/Caro/Server/src/initServer.h
+constant.h
+/home/ubuntu/Desktop/Caro/Server/src/constant.h
+handleDatabase.h
+/home/ubuntu/Desktop/Caro/Server/src/handleDatabase.h
+
